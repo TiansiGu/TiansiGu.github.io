@@ -38,7 +38,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/tiansi-gu-51796b267/
 
-Focus on:
+interests:
   - Backend Engineering
   - High Performance, Latency Sensitive Service
   - Machine Learning | Large Language Models

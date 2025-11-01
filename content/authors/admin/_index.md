@@ -29,10 +29,10 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: "tiansigu10@gmail.com"
+    url: "mailto:tiansigu10@gmail.com"
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://twitter.com/TiansiGu
   - icon: brands/github
     url: https://github.com/TiansiGu
   - icon: brands/linkedin
@@ -46,34 +46,22 @@ Focus on:
   - Fullstack Development
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com/thesis.pdf"
   - area: MS Computer Science
-    institution: Carnegie Mellon University
+    institution: University of San Francisco
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2023-08-15
+    date_end: 2026-05-19
     summary: |
       GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Specialized in AI Concentration.
+  - area: BS Labor Relations
+    institution: Renmin (People's) University of China
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2017-09-02
+    date_end: 2021-06-09
     summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+      GPA: 3.79/4.0
 
 work:
   - position: Senior AI Research Scientist

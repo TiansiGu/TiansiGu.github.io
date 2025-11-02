@@ -138,27 +138,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: "2022-12-01"
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: "2021-06-15"
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: "2019-06-30"
-    awarder: Stanford University
+  - title: CS Merit Scholarship
+    date: "2025-10-14"
+    awarder: University of San Francisco
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      $5,000 (highest level) grant for adademic exellence.
+  - title: CS Merit Scholarship
+    date: "2024-10-24"
+    awarder: University of San Francisco
+    icon: hero/academic-cap
+    summary: |
+      $4,000 (highest level) grant for adademic exellence.
 ---
 
 I am Tiansi Gu, a Computer Science Master student at the University of San Francisco. I have completed two internships at Amazon Web Services, where I worked on scalable, LLM-driven software system and infrastructure for clinical note generations. I am passionate about building robust GenAI applications and exploring Machine Learning projects with model training and performance optimization. I am also highly-skilled in SRE/DevOps, with experience of CI/CD pipelines, containerization, and clusters management. Outside of work, I enjoy hiking, swimming, and reading about the next generation of AI talent.

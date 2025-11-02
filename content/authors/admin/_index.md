@@ -64,20 +64,28 @@ education:
       GPA: 3.79/4.0
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: "https://ai.meta.com/"
+  - position: Software Engineering Co-op
+    company_name: SnapLogic
+    company_url: "https://www.snaplogic.com/"
     icon: ""
-    date_start: 2020-01-01
+    date_start: 2025-09-08
     date_end: ""
     summary: |2-
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: "https://openai.com/"
+  - position: Software Engineering Intern
+    company_name: Amazon Web Services
+    company_url: "https://aws.amazon.com/"
     icon: ""
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2025-05-27
+    date_end: 2025-08-15
+    summary: |
+      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - position: Software Engineering Intern
+    company_name: Amazon Web Services
+    company_url: "https://aws.amazon.com/"
+    icon: ""
+    date_start: 2024-05-28
+    date_end: 2024-08-16
     summary: |
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
@@ -94,6 +102,10 @@ skills:
         description: ""
         percent: 100
         icon: chart-bar
+      - name: Java & C++ & Typscript
+        description: ""
+        percent: 95
+        icon: code-bracket
       - name: Cloud Computing (AWS/GCP)
         description: ""
         percent: 85
@@ -106,10 +118,10 @@ skills:
         description: ""
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Swimming
         description: ""
         percent: 90
-        icon: cpu-chip
+        icon: hero/sparkles
       - name: Sci-Fi Reading
         description: ""
         percent: 70
@@ -117,9 +129,9 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Chinese (Mandarin)
     percent: 100
-  - name: Spanish
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -149,4 +161,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am Tiansi Gu, a Computer Science Master student at the University of San Francisco. I have completed two internships at Amazon Web Services, where I worked on scalable, LLM-driven software system and infrastructure for clinical note generations. I am passionate about building robust GenAI applications and exploring Machine Learning projects with model training and performance optimization. I am also highly-skilled in SRE/DevOps, with experience of CI/CD pipelines, containerization, and clusters management. Outside of work, I enjoy hiking, swimming, and reading about the next generation of AI talent.

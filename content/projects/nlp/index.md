@@ -11,9 +11,6 @@ tags:
   - Transformers
 ---
 
-We trained traditional ML models and Neural Netwroks (including Word Embeddings, LSTM, and BERT) to identify sentiment polarity on cosmetic product reviews.
-
-- This project also used feature engineering techniques (e.g. SMOTE, Lemmatization, TF-IDF, ) and hyper-parameter finetuning.
-- Improved classification f1 score by 10% on average, and up to 89.8% via tuned LSTM model.
+A Graph Neural Network that propagates multi-hop collaborative filtering signals from text contents
 
 <!--more-->
